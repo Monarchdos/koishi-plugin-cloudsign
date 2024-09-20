@@ -1,10 +1,10 @@
 {
   "name": "koishi-plugin-cloudsign",
   "description": "基于云端的签到综合积分系统☁",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
-  "files": [  
+  "files": [
     "lib",
     "dist"
   ],
@@ -26,6 +26,7 @@
   },
   "keywords": [
     "签到",
+    "云签到",
     "sign",
     "积分",
     "plugin"
@@ -36,7 +37,7 @@
     "@types/eslint": "^9",
     "@types/node": "^22.5.1",
     "eslint": "^8",
-    "koishi": "^4.17.12",
+    "koishi": "^4.18.0",
     "prettier": "^3.3.3",
     "typescript": "^5.5.4"
   },
