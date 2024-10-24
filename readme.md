@@ -51,7 +51,7 @@
         <td> 打劫xxx的积分,有几率获得对方的部分积分,也可能打劫不到或被反打劫 </td>
     </tr>
     <tr align="center">
-        <td> #打劫记录 </td>
+        <td> 打劫记录 </td>
         <td> 查看打劫统计信息 </td>
     </tr>
     <tr align="center">
@@ -127,8 +127,8 @@
         <td> 查看自己的漂流瓶统计信息 </td>
     </tr>
     <tr align="center">
-        <td> #等级信息 </td>
-        <td> 查看自己的等级以及经验值 </td>
+        <td> #成语接龙 xx</td>
+        <td> 消耗xx积分开启成语接龙游戏,获胜积分翻倍 </td>
     </tr>
     <tr align="center">
         <td> #邀请码 xxxxx </td>
